@@ -6,8 +6,7 @@ This Node.js application processes images listed in the `test.csv` file, uploads
 
 ## How to run this project?
 - Download the zip of this repo into your local and put MONGODB_URI into your .env
-- Download the Google Drive API credentials from here: 
-https://drive.google.com/file/d/1Nd0ETZKVM5llTan5dANNrEE3WYH9Tj9R/view?usp=drive_link 
+- Download the Google Drive API's apikey.json which is attached as a Supporting Docs in the Google form 
 - Run the "npm i" command to install all the dependencies
 - Finally run "npm start" to spin up the project
 
